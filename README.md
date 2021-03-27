@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shauncuier&layout=compact)](https://github.com/shauncuier)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shauncuier&layout=compact&theme=chartreuse-dark&show_icons=true)](https://github.com/shauncuier)
 
 <br/>
 <br/>
@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shauncuier&repo=modern_portfolio)](https://github.com/shauncuier/modern_portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shauncuier&repo=modern_portfolio&theme=chartreuse-dark&show_icons=true)](https://github.com/shauncuier/modern_portfolio)
+
+
 
 

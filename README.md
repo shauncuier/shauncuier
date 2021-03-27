@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+---
+[![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shauncuier&theme=chartreuse-dark&show_icons=true)](https://github.com/shauncuier)
 <!--
 **shauncuier/shauncuier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

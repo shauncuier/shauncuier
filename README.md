@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel**
 
-- 📫 How to reach me **shauncuier@gmail.com**
+- 📫 How to reach me **hello@jashedulislamshaun.xyz**
 
 - 📄 Know about my experiences [https://jashedulislamshaun.xyz/](https://jashedulislamshaun.xyz/)
 

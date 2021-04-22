@@ -25,4 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shauncuier&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="shauncuier" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauncuier&theme=chartreuse-dark&show_icons=true&locale=en" alt="shauncuier" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauncuier&theme=chartreuse-dark&show_icons=false&locale=en" alt="shauncuier" /></p>

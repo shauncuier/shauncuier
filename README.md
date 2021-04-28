@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauncuier&theme=chartreuse-dark&show_icons=true&locale=en" alt="shauncuier" /></p>
 
-<figure><embed src="https://wakatime.com/share/@5ae9728e-0524-48e7-9609-f9e05d49b374/020cf7d9-f2ad-4c10-8e76-13af96bf270d.svg"></embed></figure>
+

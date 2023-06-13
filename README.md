@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hello@jashedulislamshaun.com**
 
-- 📄 Know about my experiences [https://jashedulislamshaun.xyz/](https://jashedulislamshaun.com/)
+- 📄 Know about my experiences [https://jashedulislamshaun.com/](https://jashedulislamshaun.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

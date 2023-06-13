@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **PHP, Laravel**
 
-- 📫 How to reach me **hello@jashedulislamshaun.xyz**
+- 📫 How to reach me **hello@jashedulislamshaun.com**
 
-- 📄 Know about my experiences [https://jashedulislamshaun.xyz/](https://jashedulislamshaun.xyz/)
+- 📄 Know about my experiences [https://jashedulislamshaun.xyz/](https://jashedulislamshaun.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

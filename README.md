@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jashedulislams1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jashedulislams1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jashedul-islam-shaun-cu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jashedul-islam-shaun-cu" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14972778" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14972778" height="30" width="40" /></a>
-<a href="https://fb.com/jashedulislam.shaun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jashedulislam.shaun" height="30" width="40" /></a>
-<a href="https://instagram.com/jashedulislamshaun" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jashedulislamshaun" height="30" width="40" /></a>
+<a href="https://twitter.com/jashedulislams1" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="jashedulislams1" color="#FFFFFF" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jashedul-islam-shaun-cu" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="jashedul-islam-shaun-cu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14972778" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/s/63/stack-overflow.svg" alt="14972778" height="30" width="40" /></a>
+<a href="https://fb.com/jashedulislam.shaun" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/f/91/facebook-icon.svg" alt="jashedulislam.shaun" height="30" width="40" /></a>
+<a href="https://instagram.com/jashedulislamshaun" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/i/92/instagram.svg" alt="jashedulislamshaun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shauncuier&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="shauncuier" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauncuier&theme=chartreuse-dark&show_icons=true&locale=en" alt="shauncuier" /></p>
-
 

@@ -1,26 +1,28 @@
+<h1 align="center">Hi 👋, I'm Shaun</h1>
+<h3 align="center">A passionate Backend developer from Bangladesh.</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jashedulislamshaun) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jashedulislamshaun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jashedulislamshaun) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14972778) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jashedulislams1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jashedulislamshaun) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shauncuier&label=Profile%20views&color=0e75b6&style=flat" alt="shauncuier" /> </p>
 
+<!-- <p align="left"> <a href="https://twitter.com/jashedulislams1" target="blank"><img src="https://img.shields.io/twitter/follow/jashedulislams1?logo=twitter&style=for-the-badge" alt="jashedulislams1" /></a> </p> -->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shauncuier&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shauncuier&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shauncuier&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🌱 I’m currently learning **PHP, Laravel**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shauncuier&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- 📫 How to reach me **hello@jashedulislamshaun.com**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+- 📄 Know about my experiences [https://jashedulislamshaun.com/](https://jashedulislamshaun.com/)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shauncuier&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jashedulislams1" target="_blank"><img align="center" src="https://www.cdnlogo.com/logos/t/96/twitter-icon.svg" alt="jashedulislams1" color="#FFFFFF" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jashedul-islam-shaun-cu" target="_blank"><img align="center" src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="jashedul-islam-shaun-cu" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14972778" target="_blank"><img align="center" src="https://www.cdnlogo.com/logos/s/63/stack-overflow.svg" alt="14972778" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jashedulislamshaun/" target="_blank"><img align="center" src="https://www.cdnlogo.com/logos/f/91/facebook-icon.svg" alt="jashedulislam.shaun" height="30" width="40" /></a>
+<a href="https://instagram.com/jashedulislamshaun" target="blank_"><img align="center" src="https://www.cdnlogo.com/logos/i/92/instagram.svg" alt="jashedulislamshaun" height="30" width="40" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=shauncuier&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> </a> </p>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shauncuier) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shauncuier&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact" alt="shauncuier" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shauncuier&theme=chartreuse-dark&show_icons=true&locale=en" alt="shauncuier" /></p>

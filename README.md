@@ -10,7 +10,7 @@
 <a href="https://stackoverflow.com/users/14972778" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14972778" height="30" width="40" /></a>
 <a href="https://fb.com/jashedulislamshaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jashedulislamshaun" height="30" width="40" /></a>
 <a href="https://instagram.com/jashedulislamshaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jashedulislamshaun" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jashedulislamshaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jashedulislamshaun" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@jashedulislamshaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jashedulislamshaun" height="30" width="40" /></a>
 <a href="https://discord.gg/Vsen4xSnfF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vsen4xSnfF" height="30" width="40" /></a>
 </p>
 

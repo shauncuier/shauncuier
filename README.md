@@ -25,13 +25,13 @@
 
 </div>
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=shauncuier&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
+</div> -->
 
 <div style="text-align:center;">
 

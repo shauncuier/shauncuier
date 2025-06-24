@@ -6,7 +6,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shauncuier&label=Profile%20views&color=0e75b6&style=flat" alt="shauncuier" /> </p>
 
-
 <div style="text-align:center;">
 
 ## 🌐 Socials:

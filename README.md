@@ -1,8 +1,19 @@
-<div align="center">
-  <img src="./shaun README.png"  />
-</div>
- 
+![Banner](https://raw.githubusercontent.com/shauncuier/shauncuier/refs/heads/main/shaun%20README.png)
+
+ ## Jashedul Islam Shaun  
+**Frontend Developer | Learner | 3s‑Soft**
+
 ###
+
+### About Me  
+I’m a passionate frontend developer based in Chittagong, Bangladesh.  
+Currently exploring modern web frameworks and working on real-world projects.
+
+**🔭 Currently working on:**  
+- Building a Service website using MERN Stack  
+- Exploring React‑based component libraries  
+- Contributing to open-source web tools
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shauncuier&label=Profile%20views&color=0e75b6&style=flat" alt="shauncuier" /> </p>
 

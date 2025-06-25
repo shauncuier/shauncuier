@@ -2,29 +2,33 @@
 
 ###
 
-# Hello, I'm **Jashedul Islam Shaun** 👋  
+# Hello, I'm **Jashedul Islam Shaun** 👋
+
 **Full-Stack Developer | E-commerce Specialist | B.Ed Graduate**
 
 ---
 
-## 📍 Location & Contact  
+## 📍 Location & Contact
+
 **Chittagong, Bangladesh**  
-✉️ jashedulislamshaun@gmail.com  
+✉️ jashedulislamshaun@gmail.com
 
 ---
 
-## About Me  
+## About Me
+
 I am a dedicated full-stack developer and e-commerce specialist with a strong educational background, holding a B.Ed from Chittagong University and a Diploma in Computer Science from Open University Bangladesh.  
-I have nearly completed a comprehensive programming course with Programming Hero, mastering modern technologies such as HTML, CSS, JavaScript, React, Tailwind CSS, Express, Firebase, MongoDB, and Axios.  
+I have nearly completed a comprehensive programming course with Programming Hero, mastering modern technologies such as HTML, CSS, JavaScript, React, Tailwind CSS, Express, Firebase, MongoDB, and Axios.
 
 Driven by a passion for creating efficient and scalable web applications, I continuously seek to enhance my technical skills and contribute to impactful projects.
 
 ---
 
-## Current Focus  
-- Advancing expertise in **ExpressJS** and modern React development  
-- Building scalable and maintainable web applications  
-- Developing projects such as **PlantCareHub** and **ServiceHub Pro**  
+## Current Focus
+
+- Advancing expertise in **ExpressJS** and modern React development
+- Building scalable and maintainable web applications
+- Developing projects such as **PlantCareHub** and **ServiceHub Pro**
 - Strengthening backend development skills with **Node.js** and **Express**
 
 ---
@@ -32,7 +36,6 @@ Driven by a passion for creating efficient and scalable web applications, I cont
 ###
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shauncuier&label=Profile%20views&color=0e75b6&style=flat" alt="shauncuier" /> </p>
-
 
 ###
 
@@ -119,19 +122,15 @@ Driven by a passion for creating efficient and scalable web applications, I cont
 
 ###
 
-
-
 ###
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shauncuier&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=shauncuier&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shauncuier&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=shauncuier&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shauncuier&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
-
-
 
 <div align="center">
 
@@ -140,4 +139,3 @@ Driven by a passion for creating efficient and scalable web applications, I cont
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shauncuier)
 
 </div>
-

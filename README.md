@@ -39,6 +39,8 @@ Driven by a passion for creating efficient and scalable web applications, I cont
 
 ###
 
+
+
 <h2 align="center">🌐 Socials:</h2>
 
 ###
@@ -132,6 +134,39 @@ Driven by a passion for creating efficient and scalable web applications, I cont
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shauncuier&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
+
+
+
+## Selected Projects
+
+### Auction Gallery  
+An online auction platform featuring real-time bidding and user management.  
+**Tech Stack:** React, Node.js, Express, MongoDB, Socket.io  
+**Live Demo:** [auctiongallery.example.com](https://auctiongallery.example.com)  
+
+---
+
+### PlantCareHub  
+A comprehensive plant care management system with personalized dashboards and automated reminders.  
+**Tech Stack:** React, Tailwind CSS, Express, MongoDB, Firebase Authentication  
+**Live Demo:** [plantcarehub.example.com](https://plantcarehub.example.com)  
+
+---
+
+### ServiceHub Pro  
+A service-sharing platform enabling booking, status tracking, and dynamic routing functionalities.  
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT Authentication  
+**Live Demo:** [servicehubpro.example.com](https://servicehubpro.example.com)  
+
+---
+
+Thank you for visiting my profile. Please feel free to explore my repositories and get in touch for collaborations or inquiries.
+
+## 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shauncuier) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/shauncuier)  [![Upwork](https://img.shields.io/badge/Upwork-green?logo=upwork&style=for-the-badge)](https://www.upwork.com/freelancers/~01c75e88b6540d813f)  [![Fiverr](https://img.shields.io/badge/Fiverr-lightgreen?logo=fiverr&style=for-the-badge)](https://www.fiverr.com/jashedulislam)  
+
+###
 <div align="center">
 
 ## 💰 You can help me by Donating

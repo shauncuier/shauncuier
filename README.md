@@ -137,7 +137,7 @@ Driven by a passion for creating efficient and scalable web applications, I cont
 
 
 
-## Selected Projects
+<!-- ## Selected Projects
 
 ### Auction Gallery  
 An online auction platform featuring real-time bidding and user management.  
@@ -158,7 +158,7 @@ A service-sharing platform enabling booking, status tracking, and dynamic routin
 **Tech Stack:** React, Node.js, Express, MongoDB, JWT Authentication  
 **Live Demo:** [servicehubpro.example.com](https://servicehubpro.example.com)  
 
----
+--- -->
 
 Thank you for visiting my profile. Please feel free to explore my repositories and get in touch for collaborations or inquiries.
 
@@ -174,7 +174,7 @@ Thank you for visiting my profile. Please feel free to explore my repositories a
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shauncuier)
 
 </div>
-
+<!-- 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shauncuier/shauncuier/output/pacman-contribution-graph-dark.svg">
@@ -186,4 +186,4 @@ Thank you for visiting my profile. Please feel free to explore my repositories a
 
 <img src="https://raw.githubusercontent.com/shauncuier/shauncuier/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
